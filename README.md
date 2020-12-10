@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, GoodMuyis 👋
 
 <!--
 **goodmuyis/goodmuyis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=goodmuyis&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=goodmuyis&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodmuyis&layout=compact" />
+</div>
